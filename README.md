@@ -1,3 +1,3 @@
 # line_drawing_python_app
-Starting application:\n
+Starting application:   
 $python lineDrawingMain.py

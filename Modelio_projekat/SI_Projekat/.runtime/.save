@@ -1,0 +1,6 @@
+#Sun Jun 27 01:24:35 CEST 2021
+org.modelio.app.diagram.editor.OpenedDiagrams4='si_projekat Class diagram' {1fe2152b-42bb-4a79-9ec8-b8a2908ea496} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='State Machine State Machine diagram' {629ce3f6-79b3-4ded-b08a-3fe89fd5582e} Standard.StateMachineDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Activity Activity diagram' {5636b9db-94e8-45f6-9a30-d298e2bd5686} Standard.ActivityDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='Interaction Sequence diagram' {7024a926-8f02-48c0-92b7-086e0c0123e6} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='si_projekat Use Case diagram' {1907cdaf-ed3b-4731-af7a-06dada2e29f5} Standard.UseCaseDiagram
